@@ -7,6 +7,6 @@
     <title>Sales</title>
 </head>
 <body>
-    <h1>Ini adalah halaman penjualan</h1>
+    <h1>Ini adalah halaman penjualan.</h1>
 </body>
 </html>
